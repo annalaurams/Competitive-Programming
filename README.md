@@ -1,5 +1,5 @@
 
-#### <p align="center"> 💻 Repositório para armazenar códigos de soluções de problemas de programação competitiva
+#### <p align="center"> 💻 Repositório para resoluções de problemas de programação competitiva
 
 ### 📋 Linguagem
 
