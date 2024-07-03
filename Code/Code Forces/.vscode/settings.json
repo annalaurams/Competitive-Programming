@@ -57,7 +57,10 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "random": "cpp"
+    "random": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp",
+    "a-chat room": "c"
   },
   "C_Cpp.errorSquiggles": "enabled"
 }
