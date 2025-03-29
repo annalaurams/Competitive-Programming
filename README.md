@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://www.beecrowd.com.br" target="_blank">
-    <img src="./img/b.png" alt="Beecrowd" height="70" style="vertical-align: middle;"/>
-  </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com" target="_blank">
     <img src="./img/cf.png" alt="Codeforces" height="30" style="vertical-align: middle;"/>
