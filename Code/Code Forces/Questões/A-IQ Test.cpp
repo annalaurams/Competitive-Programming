@@ -11,12 +11,9 @@ typedef long long ll;
 
 const int MOD = 1000000007;
 
-
 int main() {
 
     _;
-
-    //vector<vector<int>> matriz;
 
     vector<vector<char>> matriz(4, vector<char>(4));
     int hast =0, pont =0;

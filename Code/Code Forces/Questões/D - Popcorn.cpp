@@ -11,17 +11,17 @@ int Cos(int n, int k) {
 int main() {
     int result = 0, n = 0, k = 0, t = 0;
 
-    ifstream infile("popcorn.in"); // Abre o arquivo de entrada
+    ifstream infile("popcorn.in");
 
-    infile >> t; // Lê o valor de t do arquivo
+    infile >> t;
 
     while (t--) {
-        infile >> n >> k; // Lê os valores de n e k do arquivo
+        infile >> n >> k;
         result = Cos(n, k);
         cout << result << endl;
     }
 
-    infile.close(); // Fecha o arquivo de entrada
+    infile.close();
 
     return 0;
 }
