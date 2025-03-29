@@ -9,15 +9,15 @@
   </a>
 </p>
 
-## 📄 Sobre
+## Sobre
 
 Repositório para resoluções de **problemas de programação competitiva** utilizando a linguagem **C++**.
 
-### 🧩 `template.cpp`
+### `template.cpp`
 
 Arquivo que serve como **modelo base**, utilizado na maioria dos códigos deste repositório. 
 
-### 📥 `input.data`
+### `input.data`
 
 Arquivo que simula a **entrada padrão** fornecida ao programa.   Com ele, é possível testar os códigos sem precisar digitar manualmente os dados a cada execução.
 
